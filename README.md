@@ -21,7 +21,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About
-<div>
+<div align="center">
   <a href="https://github.com/WesternHanMap">
     <img src="images/about.png" alt="about" width = "60%">
   </a>
@@ -68,9 +68,12 @@ If you already have pip, make sure to update it to the lastest version
    python main.py;
    ```
 6. Now the `splitted` xlsx files should be located in the same folder where you uploaded the raw `xlsx` files.
-
+<div align="center">
+    <img src="images/splitted.png" alt="Logo" width = "60%">
+  </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
