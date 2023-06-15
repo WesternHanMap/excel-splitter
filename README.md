@@ -26,12 +26,13 @@
     <img src="images/about.png" alt="about" width = "60%">
   </a>
 </div>
+<p>
   In the Mapping Western Han Project, we deal with numerous record of changes in one kingdom. This tool reads the excel files, detect the key timestamps in the history, and outputs the corresponding existed counties & noble domains in sub-sheets in between each pair of key time stamps.
-<br/>
+
 Here's why:
 * Ruoxuan's time should be focused on creating something more amazing.
 * Someone does not want to waste on her recent paid chatGPT :smile:
-
+</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
