@@ -21,26 +21,22 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+<div>
+  <a href="https://github.com/WesternHanMap">
+    <img src="images/about.png" alt="about" width = "60%">
+  </a>
+In the Mapping Western Han Project, we deal with numerous record of changes in one kingdom. This tool reads the excel files, detect the key timestamps in the history, and outputs the corresponding existed counties & noble domains in sub-sheets in between each pair of key time stamps.
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+* Ruoxuan's time should be focused on creating something more amazing.
+* Someone does not want to waste on her recent paid chatGPT :smile:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
-* [![Python][Python]][Python-url]
+[![Python][Python]][Python-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -69,6 +65,8 @@ If you already have pip, make sure to update it to the lastest version
    ```js
    python main.py;
    ```
+6. Now the `splitted` xlsx files should be located in the same folder where you uploaded the raw `xlsx` files.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
