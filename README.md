@@ -25,7 +25,8 @@
   <a href="https://github.com/WesternHanMap">
     <img src="images/about.png" alt="about" width = "60%">
   </a>
-In the Mapping Western Han Project, we deal with numerous record of changes in one kingdom. This tool reads the excel files, detect the key timestamps in the history, and outputs the corresponding existed counties & noble domains in sub-sheets in between each pair of key time stamps.
+</div>
+  In the Mapping Western Han Project, we deal with numerous record of changes in one kingdom. This tool reads the excel files, detect the key timestamps in the history, and outputs the corresponding existed counties & noble domains in sub-sheets in between each pair of key time stamps.
 
 Here's why:
 * Ruoxuan's time should be focused on creating something more amazing.
