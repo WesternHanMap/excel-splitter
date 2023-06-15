@@ -44,7 +44,7 @@ Use the `BLANK_README.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Python][Next.js]][Next-url]
-* [![Python Pandas][React.js]][[https://pandas.pydata.org/]
+* [![SiPandas][React.js][[https://pandas.pydata.org/]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
@@ -59,30 +59,26 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Download the [].
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+If you already have pip, make sure to update it to the lastest version
 * npm
   ```sh
-  npm install npm@latest -g
+  -m pip install --upgrade pip
   ```
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/WesternHanMap/excel-splitter.git
    ```
-3. Install NPM packages
+3. Install pip packages: pandas, xlsxwritter,
    ```sh
-   npm install
+   pip install
    ```
-4. Enter your API in `config.js`
+4. Upload all the excel files that you want to use in the local folder `pythonProject/xlsx`
+5. Open up `pythonProject/main.py` and run the script
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
